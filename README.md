@@ -515,6 +515,6 @@ The scanner has been tested with:
 
 ---
 
-Last Updated: February 2026
+Last Updated: 2026
 
 telegram id @Vostass1
